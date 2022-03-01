@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true Protestants watch-word, instructing all true Protestants what they ought to do in a peaceable way of opposition againt Popery, at this juncture of time. / By T.P. a friend to truth and peace.</title>
+            <author>T. P., friend to truth and peace.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04668</idno>
+            <idno type="STC">Wing P120</idno>
+            <idno type="STC">ESTC R181395</idno>
+            <idno type="EEBO-CITATION">53981688</idno>
+            <idno type="OCLC">ocm 53981688</idno>
+            <idno type="VID">180293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180293)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true Protestants watch-word, instructing all true Protestants what they ought to do in a peaceable way of opposition againt Popery, at this juncture of time. / By T.P. a friend to truth and peace.</title>
+                  <author>T. P., friend to truth and peace.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Imperfect: print show-through with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  17th century.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180293:1" rendition="simple:additions"/>
+            <p>THE True Proteſtants WATCH-WORD, INSTRUCTING All True Proteſtants what they ought to do in a Peaceable Way of Oppoſition againſt POPERY, at this Juncture of Time.</p>
+            <p>By <hi>T. P.</hi> a Friend to Truth and Peace.</p>
+            <q>
+               <p>Vita unita fortior.</p>
+            </q>
+            <q>
+               <p>And a threefold Cord is not eaſily broken,</p>
+               <bibl>
+                  <hi>Eccleſ. 4.9, 10, 12.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. B. Anno</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:180293:2"/>
+            <pb n="1" facs="tcp:180293:2"/>
+            <head>THE True Proteſtants VVATCH-VVORD.</head>
+            <p>THE holy Scripture of Truth tells us<note n="(a)" place="margin">Job 36.15.</note> That God opens the Ear by Oppreſſion; and it would be a very great mercy to <hi>England,</hi> if God would be graciouſly pleaſed to open the Ears of all true Proteſtants in this Nation by the Cry of Oppreſſion, and cauſe them to hear his voice<note n="(b)" place="margin">Mich. 6.8, 9. Zeph. 1.14, 15, 16.</note> In <hi>Romes</hi> Maſter-piece ordered by a Committee of the Houſe of Commons in Parliament the firſt day of <hi>Auguſt,</hi> 1643. to be Printed; you have a particular Diſcovery of the Popiſh Plot and Trea<g ref="char:EOLhyphen"/>ſon againſt the late King, Kingdom, and Proteſtant Religion, and to raiſe the <hi>Scotiſh</hi> Wars, p. 13-26. and the Obſervations thereon, p. 30-35.</p>
+            <p>In the King's Proclamation for Baniſhing the Papiſts ten miles from <hi>London,</hi> dated <hi>Octob.</hi> 30. 1678. He calls the then Popiſh Conſpiracy, <hi>A bloody traiterous Deſign of Popiſh Recuſants againſt His Royal Perſon, the Government, and the Proteſtant Religion.</hi>
+            </p>
+            <p>And in a Vote of the Houſe of Commons, approved by the Houſe of Lords at a Conference, <hi>Novemb.</hi> 1. 1678.—Reſolved, <hi>&amp;c. That this Houſe is of Opinion, that there hath been, and ſtill is a damnable and helliſh Plot contrived, and carried on by Popiſh Recuſants for Aſſaſſinating and Murdering the King; and for ſubverting the Government; and rooting out, and deſtroying the Protestant Religion.</hi>
+            </p>
+            <p>By this threefold <hi>Authentique</hi> Teſtimonies it doth undeniably appear, that there hath been, and ſtill is a moſt cunning, ſtrong, execrable Conſpiracy contrived at <hi>Rome:</hi> And for many years together moſt vigorouſly purſued in <hi>England</hi> with all induſtry, policy, and ſubtilty, by many active and po<g ref="char:EOLhyphen"/>tent Confederates of all ſorts, to ſubvert the Government, to re-eſtabliſh Popery, and to deſtroy the Proteſtant Religion. Therefore it greatly concerns all true Proteſtants to conſider ſeriouſly, what they ought to do at this juncture of Time, in a pious, peaceable, and righteous way, againſt Popery, and all Popiſh Recuſants in <hi>England.</hi>
+            </p>
+            <p>I am not ignorant that <hi>ſeveral</hi> Expedients have been, and are propoſed to accompliſh a firm Union, and mutual Agreement amongſt all Proteſtants <hi>(though otherwiſe of different Perſwaſions)</hi> againſt our <hi>Common</hi> Adverſaries the Papiſts, but they have not proved <hi>Effectual</hi> to that End: Yet there is <hi>(at least in my Opinion)</hi> a <hi>Medium,</hi> which, if we <hi>Protestants</hi> could all agree in the Know<g ref="char:EOLhyphen"/>ledge and Practice of, would certainly conduce very much unto the full accompliſhment of this ſweet, lovely, and innocent thing, called Union and mutual Agreement among all true Proteſtants.</p>
+            <p>That <hi>Medium,</hi> which I intend, and humbly offer, conſiſts of two general and principal parts, <hi>viz.</hi> firſt, That Royal Law of our LORD Jeſus Chriſt;<note n="(c)" place="margin">Matth 22.39.</note> 
+               <hi>Thou ſhalt love thy Neighbour as thy ſelf.</hi> Secondly, That fundamental Law of this our Nation, called <hi>Magna-Charta,</hi> with its <hi>Anathema,</hi> adminiſtred in <hi>Westminster Hall</hi> the third day of <hi>May,</hi> 1253. at the Reſtoring and Confirmation of the ſame <hi>Magna-Charta,</hi> the King, Lords and Commons being preſent, and conſenting to the ſame <hi>Anathema;</hi> the words are theſe, <hi>We Excommunicate, Accurſe, and from the Benefit of the holy Church Sequester all, that ſecretly or openly, by Deed, Word, or Councel, do make Statutes, or obſerve them being made; or that bring in Cuſtoms, or that keep them being brought in against the ſaid Liberties of</hi> Magna-Charta, <hi>the Writers, Law-makers, Councellors, and the Executors of them, and all thoſe that ſhall preſume to Judge againſt them.</hi>
+            </p>
+            <p>That we Proteſtants may agree in the Knowledge and Practice of that Law of our Soveraign Lord Jeſus, <hi>Mat.</hi> 22.39. <hi>Thou ſhalt love thy Neighbour as thy ſelf;</hi> we muſt underſtand, 1. That every true Proteſtant <hi>(in England eſpecially)</hi> is our Neighbour. 2. That to love him <hi>(as our ſelves)</hi> is to pity and compaſſionate him, to help and ſuccour him, to relieve and preſerve him, when he is wrong<g ref="char:EOLhyphen"/>ed, injured, <hi>unjuſtly</hi> oppreſſed, and in danger to be deſtroyed; yea and by all <hi>lawful</hi> waies and means to preſerve his Life, Liberty and Eſtate from the <hi>illegal</hi> Violence and Oppreſſion of any perſon or perſons whatſoever.</p>
+            <p>And the lawful waies and means, which all true Proteſtants may and ought to uſe in this caſe, are theſe, <hi>viz. firſt,</hi> They ought to make fervent and conſtant Prayer to <hi>Almighty</hi> God for the Proteſtants, their Cauſe, Lives and Liberties, againſt the Papiſts, and all their Adherents, that ſeek to deſtroy them, <hi>as before is evidently declared:</hi> And herein all true Proteſtants ought to be unanimous, as the
+<pb n="2" facs="tcp:180293:3"/>Church was, <hi>Ast.</hi> 12.1-5. <hi>But prayer was made by the Church unto God for him without ceaſing,</hi> and <hi>verſe</hi> 12. And <hi>Pſal.</hi> 83. throughout. <hi>Keep not thou ſilence, O God, hold not thy peace, and be not ſtill, O God. For in, thine enemies make a tumult: and they that hate thee have lift up the head. They have taken crafty counſel againſt thy people, and couſulted againſt thy hid<g ref="char:EOLhyphen"/>den ones. They have laid, Conte, and let us cut them off from being a Nation; that the name of</hi> Iſrael <hi>may be no more in remembrance. For they have conſulted together with one conſent: they are confederate againſt thee. The Tabernacles of</hi> Edom, <hi>and the</hi> Iſhmaelites: <hi>of</hi> Moab, <hi>and the</hi> Hagarens. Gebal, <hi>and</hi> Ammon, <hi>and</hi> Ammalek: <hi>the</hi> Philiſtines <hi>with the Inha<g ref="char:EOLhyphen"/>bitants of</hi> Tyre. Aſſur <hi>alſo is joyned with them: they have holpen the children of</hi> Lot. Selah. <hi>Go unto them as to the</hi> Midianites, <hi>as to</hi> Siſera, <hi>as to</hi> Jabin <hi>at the brook of</hi> Kiſon. <hi>Which pe<g ref="char:EOLhyphen"/>riſhed at</hi> Endor, <hi>they became as dung for the Earth. Make their Nobles like</hi> Oreb, <hi>and like</hi> Zeeb: <hi>yea, all their Princes as</hi> Zebah, <hi>and as</hi> Zalmunna: <hi>Who ſaid, let us take to our ſelves the Houſes of God in poſſeſsion. O my God, make them like a wheel: as the ſtubble be<g ref="char:EOLhyphen"/>fore the wind. As the fire burneth a wood: and as the flame ſetteth the mountains on fire: So perſecute them with thy tempeſt, and make them afraid with thy ſtorm. Fill their faces with ſhame, that they may ſeek thy Name, O Lord. Let them be confounded and troubled for ever: yea, let them be put to ſhame, and periſh. That men may know that thou whoſe name alone is IEHOVAH, art the moſt High over all the Earth.</hi> Yea faſt<g ref="char:EOLhyphen"/>ing and prayer in this Caſe, as <hi>Eſther, Mordecai,</hi> and the <hi>Jews</hi> did, when <hi>Haman the Kings Favorite,</hi> and his Confederates ha<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Plotted their Deſtruction, <hi>Aeſth.</hi> 4.3.16. <hi>Secondly,</hi> All Proteſtants <hi>as one Man</hi> ought every Man to arm himſelf, that they might be ready to defend themſelves, when the <hi>blood<g ref="char:EOLhyphen"/>thirſty</hi> Papiſts <hi>(Who have Conſpired to burn their houſes and Maſſacre their Perſons, and ſo deſtroy the Pro<g ref="char:EOLhyphen"/>testant Religion)</hi> ſhall attempt their Helliſh Plot; as <hi>Nehemiah,</hi> the Nobles, the Elders, the Rulers, and all the <hi>Jews</hi> did generally, yea every one had his ſword guirded by his ſide; the Labourer, and they that bear burdens had weapons for their defence. Read <hi>Nehem.</hi> 4.7. When <hi>Sanballat, Tobiah,</hi> the <hi>Arabians,</hi> the <hi>Ammonites,</hi> and the <hi>Aſhdodites, v.</hi> 8. Conſpired all of them together to come and to fight againſt <hi>Jeruſalem,</hi> and <hi>v.</hi> 12. And be upon them, <hi>v.</hi> 11. And the Adverſaries ſaid, <hi>They ſhall not know, neither ſee, will we come in the midſt among them, and ſlay them,</hi> &amp;c. <hi>Thirdly,</hi> The Proteſtants being provided with Arms for their own defence, may and ought to Petition the King for their lives, and to pray his Majeſty and his Councellors for an Edict unto Lieutenants, and the De<g ref="char:EOLhyphen"/>puties, and Rulers or Governours of their reſpective Provinces, Countries, Cities, Towns-corporate, <hi>&amp;c.</hi> Wherein the King &amp; his Councellors may be deſired to grant unto the Proteſtants in all his Dominions <hi>(eſpecially in England)</hi> to gather themſelves together, and to ſtand for their Life, to deſtroy, to ſlay, and to cauſe to periſh all the Power of the Papiſts, that ſhall aſſault them. As <hi>Eſther</hi> and <hi>Mordecai</hi> did in their caſe and danger, which is Recorded in the Book <hi>Eſther, Chap.</hi> 7.1.2.3. <hi>Chap.</hi> 8.9, 10, 11.</p>
+            <p>And touching the <hi>ſecond</hi> Part of the <hi>Medium</hi> propounded, <hi>viz.</hi> the <hi>Magna-Charta</hi> of <hi>England,</hi> which fundamental Law of the Land of our Nativity will juſtify all true Proteſtants of this Nation, in our due obedience to that Royal law of our Lord Jeſus Chriſt afore-mentioned, <hi>viz. Thou ſhalt love thy Neighbour as thy ſelf.</hi> For I beſeech all true Proteſtants to Conſider we hold by one <hi>com<g ref="char:EOLhyphen"/>mon</hi> Tenure all the <hi>outward</hi> Liberties, Priviledges, and Intereſts, that we have in our lives, eſtates, and all other Proprieties that we have, and the beſt Security that <hi>Engliſh</hi> men have for the hold<g ref="char:EOLhyphen"/>ing thereof, is the fundamental Law of the Land: And therefore if this <hi>grand</hi> Security be violated in any <hi>one Engliſh-mans</hi> juſt Caſe, <hi>every</hi> Mans Life, Liberty, Priviledg, Intereſt and Propriety is invaded by that particular violation, as well as <hi>his</hi> to whom the violation is done: And my legal and juſt Defending his Right, as my own, is, <hi>to love my Neighbour as my ſelf.</hi>
+            </p>
+            <p>Yea, the ſecurity of our Lives, Freedoms, and Liberties, is ſo firm by <hi>Magna-Charta,</hi> and the fundamental Laws of the Land, that though <hi>Dudley</hi> and <hi>Empſon</hi> had a Law of King, Lords and Commands to juſtifie them, yet notwithſtanding they were condemned and executed, and the <hi>Act</hi> it ſelf judged and declared <hi>illegal.</hi> And it will be a <hi>difficult</hi> Task for any one to give a clear and true Inſtance of any Perſons, <hi>or Perſon,</hi> (except in time of war by which Juſtice may be ob<g ref="char:EOLhyphen"/>ſtructed) that ever brake the Fundamental Laws of <hi>England,</hi> but ſooner or later it coſt him his Life for the Breach he made upon them. Nor is any thing more frequent in our <hi>Engliſh</hi> Annals, than the cutting off Offenders, for but <hi>endeavouring</hi> to Subvert the Fundamentals Laws of this Nation.</p>
+            <p>Now to conclude it doth behave all true Chriſtians to lay aſide all our differences, and agree in this harmleſs <hi>Medium</hi> propounded for Unity and Safety of all true Proteſtants, and the Proteſtant Religion, againſt all the Helliſh Plots, Confederacies, Treacheries and Deſigns of the Papiſts.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
